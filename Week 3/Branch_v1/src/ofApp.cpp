@@ -42,7 +42,7 @@ void ofApp::mouseDragged(int x, int y, int button){
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button){
     ofBackground (125, 125, 125);
-    myBranch.setup(ofGetWidth()/2, ofGetHeight()/2, 25, 35, 0.35, 3, 6, 0, PI/2, 0, ofColor(138,90,69));
+    myBranch.setup(ofGetWidth()/2, ofGetHeight()/4, 40, 40, 0.35, 3, 6, 0, PI/2, 0, ofColor(138,90,69));
     
     
     //xPos, yPos, width, length, splitPercentage, maxSubdivisions,maxSegments, segmentsSinceStart, angle, curvature, color

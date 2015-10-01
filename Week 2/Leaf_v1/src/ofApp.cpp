@@ -2,6 +2,7 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
+      ofBackground(125, 125, 125);
     numLeaves = (int)ofRandom(10,20);
     for (int i=0; i < numLeaves; i++) {
         Leaf tempLeaf;

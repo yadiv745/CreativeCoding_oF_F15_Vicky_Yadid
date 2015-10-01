@@ -12,7 +12,7 @@
 
 #### Me 
 
-![Smaller icon](file:///Users/vickyyadid/Pictures/headintheclouds3.jpg) 
+![icon](file:///Users/vickyyadid/Pictures/headintheclouds3.jpg) 
 
 Picture taken two weekends ago, at Refinery 29rooms. 
 

@@ -53,7 +53,7 @@ void Branch::setup(
     //pq q isso não está no draw?
     xPos += length * cos(angle); //aqui o angle é angle pq pode ser qualquer um? se eu quisesse que fosse um angle especifico eu colocaria numero?
     yPos += length * sin(angle);
-    width = width * (ofRandom(0.7, 0.8)); // variação do tamanho dos branches
+    width = width * (ofRandom(0.5, 0.8)); // variação do tamanho dos branches
     segmentsSinceStart += 1; // esse é para acrescentar mais um branch?
     angle += curvature;
     curvature += ofRandom (0, (float)(2* PI)/360);
