@@ -22,7 +22,7 @@ public:
     
 private:
     Branch myBranch1;
-    Branch myBranch2;
+//    Branch myBranch2;
     
     bool hasDrawn;
     

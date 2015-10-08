@@ -35,6 +35,7 @@ void Branch::setup (float _xPos,
     curvature = _curvature;
     color = _color;
     
+     ofSetFrameRate(60);
     
     ofSetColor(color);
     ofSetLineWidth((int)width);
