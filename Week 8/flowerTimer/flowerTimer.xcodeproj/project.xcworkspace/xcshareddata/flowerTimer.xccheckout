@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7691A7CF-D624-4AD8-B9AB-749FD4CD638A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>flowerTimer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D29124B227296DDD9C745588B47C68191A5AF80E</key>
+		<string>https://github.com/yadiv745/CreativeCoding_oF_F15_Vicky_Yadid.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Week 8/flowerTimer/flowerTimer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D29124B227296DDD9C745588B47C68191A5AF80E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yadiv745/CreativeCoding_oF_F15_Vicky_Yadid.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D29124B227296DDD9C745588B47C68191A5AF80E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D29124B227296DDD9C745588B47C68191A5AF80E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CreativeCoding_oF_F15_Vicky_Yadid</string>
+		</dict>
+	</array>
+</dict>
+</plist>

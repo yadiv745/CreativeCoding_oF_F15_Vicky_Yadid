@@ -16,7 +16,7 @@ Creative Coding for OpenFrameworks Parsons Fall 2015
 
 #### Me 
 
-![icon](file:///Users/vickyyadid/Pictures/headintheclouds3.jpg) 
+![icon](file:///Users/vickyyadid/Desktop/openFrameworks/CreativeCoding_oF_F15_Vicky_Yadid/headintheclouds3.jpg) 
 
 Picture taken at Refinery 29rooms. 
 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AA205B32-7651-4D5D-8990-10B4FE6D5401</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mySketch_shader_v3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D29124B227296DDD9C745588B47C68191A5AF80E</key>
+		<string>https://github.com/yadiv745/CreativeCoding_oF_F15_Vicky_Yadid.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Project 3/mySketch_shader_v3/mySketch_shader_v3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D29124B227296DDD9C745588B47C68191A5AF80E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yadiv745/CreativeCoding_oF_F15_Vicky_Yadid.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D29124B227296DDD9C745588B47C68191A5AF80E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D29124B227296DDD9C745588B47C68191A5AF80E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CreativeCoding_oF_F15_Vicky_Yadid</string>
+		</dict>
+	</array>
+</dict>
+</plist>
